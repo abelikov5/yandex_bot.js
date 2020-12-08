@@ -8,6 +8,8 @@
 // @grant        none
 // ==/UserScript==
 
+// link to original (google bot) https://github.com/vladlen-vozhzhaev/edu_1510/blob/main/bot_google.js
+
 let next_ = '.pager__item_kind_next';
 let link_true = false;
 function getRandom(min,max){
